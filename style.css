@@ -1,0 +1,21 @@
+  
+    
+    body {color: black; 
+          background-color: #d2b48c; 
+          margin: auto; 
+          padding: 3%; 
+          font-style: normal; 
+          font-weight: normal
+          line-height: normal; 
+          font-family: Comic Sans MS} 
+    p {text-align: justify}
+    h1 {text-transform: uppercase}
+    h2 {text-decoration: underline}
+    div {font-size: x-large}
+    div [class="autor"] {border: solid black 3px; float: normal} 
+    div [class="zdroj"] {border: solid black 3px; float: normal}
+    div {border: 3px dashed black; padding: 3em}
+    a {cursor: crosshair}
+   div [class="zanr"] {text-decoration: overline}
+ 
+      
